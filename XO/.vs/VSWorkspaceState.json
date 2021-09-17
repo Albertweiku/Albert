@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application\\admin",
+    "\\application\\admin\\lang",
+    "\\application\\admin\\view",
+    "\\application\\index",
+    "\\sourcecode",
+    "\\sourcecode\\baidu",
+    "\\sourcecode\\baidu\\default",
+    "\\sourcecode\\weixin",
+    "\\sourcecode\\weixin\\default"
+  ],
+  "SelectedNode": "\\sourcecode\\weixin\\default\\app.js",
+  "PreviewInSolutionExplorer": false
+}
